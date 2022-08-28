@@ -32,7 +32,7 @@
     "@codemirror/stream-parser": "0.19.3",
     "@codemirror/text": "0.19.5",
     "@codemirror/tooltip": "0.19.12",
-    "@codemirror/view": "0.19.39",
+    "@codemirror/view": "0.20.7",
     "@lezer/common": "0.15.11",
     "@lezer/lr": "0.15.6",
     "@rollup/plugin-node-resolve": "^13.0.4",
