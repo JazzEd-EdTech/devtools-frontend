@@ -27,7 +27,7 @@
     "@codemirror/matchbrackets": "0.19.3",
     "@codemirror/panel": "0.19.1",
     "@codemirror/rangeset": "0.19.6",
-    "@codemirror/search": "0.19.5",
+    "@codemirror/search": "0.20.1",
     "@codemirror/state": "0.19.6",
     "@codemirror/stream-parser": "0.19.3",
     "@codemirror/text": "0.19.5",
